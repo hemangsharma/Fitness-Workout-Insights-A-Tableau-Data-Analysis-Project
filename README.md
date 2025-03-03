@@ -25,7 +25,7 @@ This project includes **11 key visualizations** to uncover insights:
 
 ## How to Use  
 ### **1️⃣ View the Tableau Dashboard**  
-📌 The final Tableau Story and Dashboard are available on **[Tableau Public](https://public.tableau.com/)**.  
+📌 The final Tableau Story and Dashboard are available on **[Tableau Public](https://public.tableau.com/app/profile/hemang.sharma6675/viz/DataAnalysis_17409761323500/Dashboard?publish=yes)**.  
 
 ### **2️⃣ Clone This Repository**  
 To download and explore the Tableau workbook:  
@@ -52,7 +52,7 @@ cd Fitness-Workout-Insights-A-Tableau-Data-Analysis-Project
 ## 🔗 Resources  
 - **Dataset**: `workout_data.csv`  
 - **Tableau Workbook**: `fitness_insights.twbx`  
-- **Published Dashboard**: [Tableau Public Link](https://public.tableau.com/)   
+- **Published Dashboard**: [Tableau Public Link](https://public.tableau.com/app/profile/hemang.sharma6675/viz/DataAnalysis_17409761323500/Dashboard?publish=yes)   
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
